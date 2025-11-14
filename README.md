@@ -1,17 +1,17 @@
 # msd-paint (Marble Paint)
 
 <p align="center">
-    <img src="readmeAssets/demo.gif" alt="demo GIF">
-</p>
-
-<p align="center">
     <img src="readmeAssets/delicate-arch.png" alt="Delicate Arch" width="210">
-    <img src="readmeAssets/blue-flower.png" alt="Blue Flower">
-    <img src="readmeAssets/orange-flower.png" alt="Orange Flower">
+    <img src="readmeAssets/blue-flower.png" alt="Blue Flower" width="210">
+    <img src="readmeAssets/orange-flower.png" alt="Orange Flower" width="210">
 </p>
 
 <p align="center">
-    <img src="readmeAssets/main-menu.png" alt="Main Menu">
+    <img src="readmeAssets/main-menu.png" alt="Main Menu" width="210">
+</p>
+
+<p align="center">
+    <img src="readmeAssets/demo.gif" alt="demo GIF" width="300">
 </p>
 
 ## How to Use
