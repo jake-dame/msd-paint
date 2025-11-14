@@ -38,10 +38,9 @@ This project also had a server program which provided for the sharing, feed, use
 
 This project was only tested on Google Pixel 5.
 
-If attempting to build this project:
+If attempting to build this project: you will need to point Gradle to JDK 17, but nothing past
 
 - Make sure you're on JDK 17-21. If you have a global java home on your $PATH that isn't one of those, make sure to point gradle at the right JDK, otherwise the build process will be very painful. If the gradle daemons _do_ cache the wrong JDK, export the correct one and run `./gradlew clean build` to clear out gradle's cache. It will pick up the new JDK this time.
-- I have not decided whether to explicitly constrain this in gradle's build files yet
 
 ## Licenses
 
