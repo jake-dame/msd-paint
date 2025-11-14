@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="readmeAssets/delicate-arch.png" alt="Delicate Arch">
+    <img src="readmeAssets/delicate-arch.png" alt="Delicate Arch" width="210">
     <img src="readmeAssets/blue-flower.png" alt="Blue Flower">
     <img src="readmeAssets/orange-flower.png" alt="Orange Flower">
 </p>
