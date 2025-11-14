@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-    <img src="readmeAssets/main-menu.png" alt="Main Menu" width="210">
     <img src="readmeAssets/demo.gif" alt="demo GIF" width="210">
 </p>
 
@@ -28,6 +27,10 @@
 10. If you ever feel the desire to go back and edit a past doodle, just return to the main menu, select it, and begin your edits
 
 ## Things to Know
+
+<p align="center">
+    <img src="readmeAssets/main-menu.png" alt="Main Menu" width="210">
+</p>
 
 This project also had a server program which provided for the sharing, feed, user login, and cloud storage features via Firebase. But, since the server won't be ran, that functionality is unfortunately no longer available.
 
